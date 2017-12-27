@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.flespakket_table { width:100%; }
+.flespakket_table td { text-align:right; }
+.flespakket_table td.flpafunc { width:55px; vertical-align:top; padding-left:10px; }
+.flespakket_table div { white-space:nowrap; width:100%; }
+.flespakket_table img { width:18px; height:20px; margin-left:5px; vertical-align:top; }
+.flespakket_table tr td {border-bottom: none !important;}
+.flpaleft { float:left; margin-left:10px; }
+.flespakket_align_right {text-align: right !important;}
+.flespakket-select-column {width: 100px;}
+.flespakket-action-column {width: 240px;}
